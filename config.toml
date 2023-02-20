@@ -1,6 +1,6 @@
-baseURL = 'https://genuine-marshmallow-ea4932.netlify.app/'
+baseURL = 'https://learnbar.netlify.app/'
 languageCode = 'en-us'
-title = 'CodeBar'
+title = 'LearnBar'
 theme = 'fuji'
 
 [params]
