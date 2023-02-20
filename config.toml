@@ -1,4 +1,4 @@
-baseURL = 'https://codebar.akbarrahmatm.my.id/'
+baseURL = 'https://codebar-hugo.netlify.app/'
 languageCode = 'en-us'
 title = 'CodeBar'
 theme = 'fuji'
