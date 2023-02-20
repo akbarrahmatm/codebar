@@ -1,0 +1,48 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'CodeBar'
+theme = 'fuji'
+
+[params]
+author = "akbarrahmatm"                # You can also set author in post front matter individually
+subTitle = "Some learn process."
+defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
+
+disqusShortname = "learnbar-main"
+
+showWordCounter = true
+showReadTime = true
+
+
+summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
+paginate = 10
+
+description = "Some learning process."
+og = "/img/og.png" # This will use the image called og.png in static/img folder
+
+[menu]
+[[menu.nav]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.nav]]
+name = "About"
+url = "/about/"
+weight = 2
+[[menu.nav]]
+name = "RSS"
+url = "/index.xml"
+weight = 3
+
+[[menu.link]]
+name = "GitHub"
+url = "https://github.com/akbarrahmatm"
+weight = 1
+[[menu.link]]
+name = "Twitter"
+url = "https://twitter.com/akbarrahmatm"
+weight = 2
+[[menu.link]]
+name = "Personal Website"
+url = "https://akbarrahmatm.my.id"
+weight = 3
