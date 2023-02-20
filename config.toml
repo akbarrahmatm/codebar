@@ -1,6 +1,6 @@
-baseURL = 'https://learnbar.netlify.app/'
+baseURL = 'https://codebar.akbarrahmatm.my.id/'
 languageCode = 'en-us'
-title = 'LearnBar'
+title = 'CodeBar'
 theme = 'fuji'
 
 [params]
