@@ -16,7 +16,7 @@ disqusShortname = "learnbar-main"
 showWordCounter = true
 showReadTime = true
 
-sourceURL = "https://github.com/akbarrahmatm/codebar"
+sourceURL = "https://github.com/akbarrahmatm/learnbar.site"
 
 
 summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
