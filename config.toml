@@ -35,9 +35,13 @@ name = "About"
 url = "/about/"
 weight = 2
 [[menu.nav]]
+name = "Sitemap"
+url = "/sitemap.xml"
+weight = 3
+[[menu.nav]]
 name = "RSS"
 url = "/index.xml"
-weight = 3
+weight = 4
 
 [[menu.link]]
 name = "GitHub"
