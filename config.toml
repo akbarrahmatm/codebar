@@ -1,6 +1,6 @@
 baseURL = 'https://codebar-hugo.netlify.app/'
 languageCode = 'en-us'
-title = 'CodeBar'
+title = 'LearnBar'
 theme = 'fuji'
 
 enableEmoji = true
