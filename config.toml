@@ -1,4 +1,4 @@
-baseURL = 'https://codebar-hugo.netlify.app/'
+baseURL = 'https://learnbar.site/'
 languageCode = 'en-us'
 title = 'LearnBar'
 theme = 'fuji'
