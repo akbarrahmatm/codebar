@@ -5,6 +5,9 @@ theme = 'fuji'
 
 enableEmoji = true
 
+summaryLength = false # Custom summary length, add <!--more--> in post file to custom split point
+
+
 
 [params]
 author = "akbarrahmatm"                # You can also set author in post front matter individually
@@ -19,7 +22,6 @@ showReadTime = true
 sourceURL = "https://github.com/akbarrahmatm/learnbar.site"
 
 
-summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
 paginate = 10
 
 description = "Some learning process."
