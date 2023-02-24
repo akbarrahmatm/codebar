@@ -1,6 +1,6 @@
-# CodeBar
+# LearnBar
 
-Repository ini adalah source code dari web CodeBar yang bertujuan untuk share artikel maupun tutorial tentang pemrograman.
+Repository ini adalah source code dari web LearnBar yang bertujuan untuk share artikel maupun tutorial tentang pemrograman.
 
 ## Tech
 
